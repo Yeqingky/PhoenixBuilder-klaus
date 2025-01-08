@@ -1,9 +1,10 @@
 # FastBuilder Phoenix 
 实际上，这个仓库并没有那么老
 他只不过是停留在了3年前
-## Description
+描述
+FastBuilder 是 Minecraft Bedrock 版的结构生成工具，支持各种平台。Phoenix 版本是为 Minecraft 网易版的租赁服务器设计的。目前支持生成 Euclid 几何和 ACME（mcacblock） ·原理图文件（区块的 NBT 数据将被处理）的结构，以及图像绘制。
 
-> FastBuilder is a structure generating tool for Minecraft Bedrock Edition that supporting various platforms. The Phoenix ver. was designed for the rental server of the Minecraft Netease Edition. Currently supports generating Euclid geometry and ACME(mcacblock) · schematic file(NBT data of blocks would be disposed)'s structures, and images painting.
+注意：FastBuilder Phoenix 是一款商业软件！
 
 **NOTE: FastBuilder Phoenix is a commercial software!**
 
